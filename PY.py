@@ -48,6 +48,8 @@ if x in ('1', '01'):
               os.system('curl -L https://github.com/ranisharma09/byp4ss/blob/main/zain.cpython-310.so?raw=true -o MISTYY2.so') 
        # import MISTYY2
               import zain
+          else:
+              import zain
 
 	#exit()
   ## return None
